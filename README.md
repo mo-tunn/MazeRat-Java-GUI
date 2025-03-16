@@ -23,6 +23,6 @@ Sayaç, geçen süreyi takip eder ve fare çıkışı bulduğunda ekranda süre 
   
 ## Ekran Görüntüleri
 
-![Screenshot](https://i.hizliresim.com/8ba9rnb.gif?_gl=1*xmj6so*_ga*OTkwMzgwOTIyLjE3NDIxMjM3NjU.*_ga_M9ZRXYS2YN*MTc0MjEyMzc2NC4xLjEuMTc0MjEyMzg1My42MC4wLjA.)
+![0316](https://github.com/user-attachments/assets/aac69c67-36f1-4873-9352-0c223d76149e)
 
   
